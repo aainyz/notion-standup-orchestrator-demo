@@ -1,0 +1,1 @@
+class OktaAuthService: pass
